@@ -10,5 +10,5 @@ module.exports = {
 			}
 		}
 	},
-	publicPath: "/vue-technical-test/"
+	publicPath: "/"
 }
